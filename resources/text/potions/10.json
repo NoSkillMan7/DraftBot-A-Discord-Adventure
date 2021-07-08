@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "<:BubblePurplePotion:548221045266579465> **Potion violette**",
+		"en": "<:BubblePurplePotion:548221045266579465> **Violet potion**"
+	},
+	"rarity": 7,
+	"power": 12,
+	"nature": 5,
+	"french_masculine": 0,
+	"french_plural": 0
+}

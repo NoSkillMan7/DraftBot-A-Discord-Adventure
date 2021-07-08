@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": ":candle: **Vieille bougie**",
+		"en": ":candle: **Old candle**"
+	},
+	"rarity": 1,
+	"power": 1,
+	"nature": 0,
+	"french_masculine": 0,
+	"french_plural": 0
+}

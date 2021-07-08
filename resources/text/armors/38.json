@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":shield: **Lumière de node**",
+		"en": ":shield: **Node's light**"
+	},
+	"rarity": 4,
+	"rawDefense": 7,
+	"french_masculine": 0,
+	"french_plural": 0
+}

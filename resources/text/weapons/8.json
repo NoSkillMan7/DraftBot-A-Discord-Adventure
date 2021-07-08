@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":pushpin: **Percingasiteur**",
+		"en": ":pushpin: **Knightfest**"
+	},
+	"rarity": 2,
+	"rawAttack": 2,
+	"french_masculine": 1,
+	"french_plural": 0
+}

@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":cooking: **Poêle**",
+		"en": ":cooking: **Pan**"
+	},
+	"rarity": 5,
+	"rawAttack": 3,
+	"french_masculine": 0,
+	"french_plural": 0
+}

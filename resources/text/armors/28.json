@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":shield: **Bouclier de lynel**",
+		"en": ":shield: **Lynel's shield**"
+	},
+	"rarity": 4,
+	"rawDefense": 9,
+	"french_masculine": 1,
+	"french_plural": 0
+}

@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":military_helmet: **Blindage du Major**",
+		"en": ":military_helmet: **Major's armouring**"
+	},
+	"rarity": 8,
+	"rawDefense": 9,
+	"french_masculine": 1,
+	"french_plural": 0
+}

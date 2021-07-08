@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":syringe: **Seringue infectée**",
+		"en": ":syringe: **Contaminated syringe**"
+	},
+	"rarity": 4,
+	"rawAttack": 6,
+	"french_masculine": 0,
+	"french_plural": 0
+}

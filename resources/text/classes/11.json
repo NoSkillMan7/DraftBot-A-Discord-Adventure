@@ -1,0 +1,14 @@
+{
+	"translations": {
+		"fr": ":gun: Canonnier",
+		"en": ":gun: Gunner"
+	},
+	"emoji": "🔫",
+	"attack": 100,
+	"defense": 20,
+	"speed": 110,
+	"health": 40,
+	"fightPoint": 0,
+	"price": 6950,
+	"classgroup": 3
+}

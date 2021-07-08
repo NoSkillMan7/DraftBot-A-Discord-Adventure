@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": ":amphora: **Pot en terre cuite**",
+		"en": ":amphora: **Terracotta pot**"
+	},
+	"rarity": 1,
+	"power": 1,
+	"nature": 2,
+	"french_masculine": 1,
+	"french_plural": 0
+}

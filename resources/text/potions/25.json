@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "🍹 **Boisson tropicale**",
+		"en": "🍹 **Tropical drink**"
+	},
+	"rarity": 1,
+	"power": 8,
+	"nature": 2,
+	"french_masculine": 0,
+	"french_plural": 0
+}

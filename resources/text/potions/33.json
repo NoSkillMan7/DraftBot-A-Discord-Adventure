@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "🍷 **Vin rouge**",
+		"en": "🍷 **Red wine**"
+	},
+	"rarity": 1,
+	"power": 1,
+	"nature": 0,
+	"french_masculine": 1,
+	"french_plural": 0
+}

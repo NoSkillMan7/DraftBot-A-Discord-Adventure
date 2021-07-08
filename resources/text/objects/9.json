@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": ":key2: **Clé rouillée**",
+		"en": ":key2: **Rusty key**"
+	},
+	"rarity": 1,
+	"power": 25,
+	"nature": 6,
+	"french_masculine": 0,
+	"french_plural": 0
+}

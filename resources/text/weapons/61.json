@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": "💉 **Seringue sale**",
+		"en": "💉 **Dirty syringe**"
+	},
+	"rarity": 5,
+	"rawAttack": 2,
+	"french_masculine": 0,
+	"french_plural": 0
+}

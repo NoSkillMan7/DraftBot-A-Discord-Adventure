@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":cucumber: **Cornichon**",
+		"en": ":cucumber: **Pickle**"
+	},
+	"rarity": 1,
+	"rawAttack": 1,
+	"french_masculine": 1,
+	"french_plural": 0
+}

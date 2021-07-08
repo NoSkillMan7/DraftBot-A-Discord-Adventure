@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":pick: **Pioche**",
+		"en": ":pick: **Pickaxe**"
+	},
+	"rarity": 3,
+	"rawAttack": 5,
+	"french_masculine": 0,
+	"french_plural": 0
+}

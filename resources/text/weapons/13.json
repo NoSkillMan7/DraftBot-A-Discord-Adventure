@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":bomb: **Bombe**",
+		"en": ":bomb: **Bomb**"
+	},
+	"rarity": 5,
+	"rawAttack": 9,
+	"french_masculine": 0,
+	"french_plural": 0
+}

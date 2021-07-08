@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":mechanical_arm: **Bras mécanique**",
+		"en": ":mechanical_arm: **Mecanical arm**"
+	},
+	"rarity": 5,
+	"rawDefense": 6,
+	"french_masculine": 1,
+	"french_plural": 0
+}

@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "🎃 **Citrouille**",
+		"en": "🎃 **Jack-o'-lantern**"
+	},
+	"rarity": 2,
+	"power": 15,
+	"nature": 4,
+	"french_masculine": 0,
+	"french_plural": 0
+}

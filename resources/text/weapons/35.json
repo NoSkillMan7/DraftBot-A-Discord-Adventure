@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":fishing_pole_and_fish: **Canne à pêche de maître**",
+		"en": ":fishing_pole_and_fish: **Master fishing rod**"
+	},
+	"rarity": 5,
+	"rawAttack": 6,
+	"french_masculine": 0,
+	"french_plural": 0
+}

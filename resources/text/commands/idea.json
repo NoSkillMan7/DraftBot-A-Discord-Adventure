@@ -1,0 +1,12 @@
+{
+	"translations": {
+		"fr": {
+			"title": "💡 **Idées**",
+			"text": "Vous pouvez proposer et voter pour des suggestions via ce lien.\nhttps://feedback.draftbot.com/"
+		},
+		"en": {
+			"title": "💡 **Ideas**",
+			"text": "You can submit suggestions and vote for your favorites via this link.\nhttps://feedback.draftbot.com/"
+		}
+	}
+}

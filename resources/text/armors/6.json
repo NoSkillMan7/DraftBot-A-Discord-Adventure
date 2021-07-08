@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":fencer: **Armure de fer**",
+		"en": ":fencer: **Iron armor**"
+	},
+	"rarity": 6,
+	"rawDefense": 7,
+	"french_masculine": 0,
+	"french_plural": 0
+}

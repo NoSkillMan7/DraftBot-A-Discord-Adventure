@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": "🥃 **Alcool**",
+		"en": "🥃 **Alcohol**"
+	},
+	"rarity": 1,
+	"power": 5,
+	"nature": 3,
+	"french_masculine": 1,
+	"french_plural": 0
+}

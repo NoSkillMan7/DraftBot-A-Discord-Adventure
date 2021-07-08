@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": ":flag_black: **Drapeau de la mort**",
+		"en": ":flag_black: **Death flag**"
+	},
+	"rarity": 6,
+	"power": 85,
+	"nature": 3,
+	"french_masculine": 1,
+	"french_plural": 0
+}

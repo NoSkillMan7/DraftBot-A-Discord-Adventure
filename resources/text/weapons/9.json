@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":wrench: **Clé rouillée**",
+		"en": ":wrench: **Rusty key**"
+	},
+	"rarity": 1,
+	"rawAttack": 3,
+	"french_masculine": 0,
+	"french_plural": 0
+}

@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": "🔖 **Gros livre**",
+		"en": "🔖 **Big book**"
+	},
+	"rarity": 2,
+	"rawAttack": 8,
+	"french_masculine": 1,
+	"french_plural": 0
+}

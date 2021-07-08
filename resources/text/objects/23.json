@@ -1,0 +1,11 @@
+{
+	"translations": {
+		"fr": ":fleur_de_lis: **Fleur royale**",
+		"en": ":fleur_de_lis: **Royal flower**"
+	},
+	"rarity": 5,
+	"power": 59,
+	"nature": 4,
+	"french_masculine": 0,
+	"french_plural": 0
+}

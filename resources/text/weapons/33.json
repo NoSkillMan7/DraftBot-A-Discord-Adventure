@@ -1,0 +1,10 @@
+{
+	"translations": {
+		"fr": ":knife: **Vieux couteau**",
+		"en": ":knife: **Old knife**"
+	},
+	"rarity": 2,
+	"rawAttack": 9,
+	"french_masculine": 1,
+	"french_plural": 0
+}
